@@ -1,8 +1,8 @@
 {
   "resourceType" : "Bundle",
-  "id" : "3bfd76ed-9537-46bd-a57c-3d8e30e18049",
+  "id" : "aba6ef59-b00f-4688-9ab7-acd79caf0f14",
   "meta" : {
-    "lastUpdated" : "2026-10-27T15:12:43.097+00:00"
+    "lastUpdated" : "2026-10-27T15:22:01.103+00:00"
   },
   "type" : "collection",
   "entry" : [{
@@ -19,7 +19,7 @@
       "title" : "Klass av vårdkontakt",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-10-27T15:12:43+00:00",
+      "date" : "2026-10-27T15:22:01+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -28,8 +28,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:7a1db259-cc6d-4738-910b-915331c2b002",
-        "timestamp" : "2026-10-27T15:13:05+00:00",
+        "identifier" : "urn:uuid:b11b5830-b13a-40ae-9fd4-e2cb3b203e33",
+        "timestamp" : "2026-10-27T15:22:27+00:00",
         "total" : 5,
         "offset" : 0,
         "parameter" : [{
@@ -89,7 +89,7 @@
       "title" : "Kontakttyp – ValueSet",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-10-27T15:12:43+00:00",
+      "date" : "2026-10-27T15:22:01+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -98,8 +98,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:f1876a7a-2e93-4886-ba70-7dc4df93471f",
-        "timestamp" : "2026-10-27T15:13:05+00:00",
+        "identifier" : "urn:uuid:c4c1a821-6e5d-47a7-acab-552a68fc9246",
+        "timestamp" : "2026-10-27T15:22:27+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
