@@ -1,57 +1,47 @@
 {
-  "date" : "Mon, 02 Nov, 2026 08:16:29 +0000",
+  "date" : "Mon, 02 Nov, 2026 10:50:01 +0000",
   "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
   "files" : [{
     "name" : "/fsh-generated/resources/ImplementationGuide-fhir.education.kursig.json",
-    "size" : 2038,
+    "size" : 2221,
     "processes" : [{
       "activity" : "load",
-      "start" : 25,
-      "length" : 158
-    },
-    {
-      "activity" : "loadDepInfo",
-      "start" : 26,
-      "length" : 1
+      "start" : 19,
+      "length" : 113
     },
     {
       "activity" : "checkR4R4B",
-      "start" : 26,
-      "length" : 10
+      "start" : 20,
+      "length" : 11
     },
     {
       "activity" : "generateNarratives",
-      "start" : 26,
-      "length" : 139
+      "start" : 20,
+      "length" : 163
     },
     {
       "activity" : "validate",
-      "start" : 28,
-      "length" : 1952
-    },
-    {
-      "activity" : "scanForUsageStats",
-      "start" : 30,
-      "length" : 1
+      "start" : 22,
+      "length" : 1549
     },
     {
       "activity" : "generate1",
-      "start" : 30,
-      "length" : 46
+      "start" : 25,
+      "length" : 165
     },
     {
       "activity" : "generate2",
-      "start" : 32,
-      "length" : 41
+      "start" : 29,
+      "length" : 45
     },
     {
       "activity" : "generateValidationPack",
-      "start" : 38,
-      "length" : 1
+      "start" : 37,
+      "length" : 2
     },
     {
       "activity" : "scanExamplesForR5",
-      "start" : 40,
+      "start" : 39,
       "length" : 1
     }]
   },
@@ -60,33 +50,102 @@
     "size" : 494,
     "processes" : [{
       "activity" : "loadResources",
-      "start" : 25,
-      "length" : 2
+      "start" : 19,
+      "length" : 4
     },
     {
       "activity" : "load-configure",
-      "start" : 26,
+      "start" : 20,
       "length" : 2
     },
     {
       "activity" : "generateNarratives",
-      "start" : 26,
-      "length" : 193
+      "start" : 20,
+      "length" : 191
     },
     {
       "activity" : "validate",
-      "start" : 30,
-      "length" : 5
+      "start" : 24,
+      "length" : 6
     },
     {
       "activity" : "generate1",
-      "start" : 30,
-      "length" : 15
+      "start" : 25,
+      "length" : 7
     },
     {
       "activity" : "generate2",
-      "start" : 32,
-      "length" : 11
+      "start" : 29,
+      "length" : 13
+    }]
+  },
+  {
+    "name" : "fsh-generated/resources/StructureDefinition-EducationEncounter.json",
+    "size" : 852,
+    "processes" : [{
+      "activity" : "loadResources",
+      "start" : 19,
+      "length" : 2
+    },
+    {
+      "activity" : "load",
+      "start" : 19,
+      "length" : 6
+    },
+    {
+      "activity" : "generateSnapshots",
+      "start" : 20,
+      "length" : 58
+    },
+    {
+      "activity" : "generateNarratives",
+      "start" : 20,
+      "length" : 534
+    },
+    {
+      "activity" : "validate",
+      "start" : 21,
+      "length" : 755
+    },
+    {
+      "activity" : "checkConformanceResources",
+      "start" : 24,
+      "length" : 1
+    },
+    {
+      "activity" : "scanForUsageStats",
+      "start" : 24,
+      "length" : 3
+    },
+    {
+      "activity" : "processProvenanceDetails",
+      "start" : 24,
+      "length" : 1
+    },
+    {
+      "activity" : "generate1",
+      "start" : 25,
+      "length" : 231
+    },
+    {
+      "activity" : "generate2",
+      "start" : 29,
+      "length" : 809
+    },
+    {
+      "activity" : "generate2",
+      "start" : 30,
+      "length" : 1985
+    },
+    {
+      "activity" : "generateValidationPack",
+      "start" : 37,
+      "length" : 7
+    },
+    {
+      "activity" : "scanExamplesForR5",
+      "start" : 39,
+      "length" : 1
     }]
   },
   {
@@ -94,83 +153,63 @@
     "size" : 1596,
     "processes" : [{
       "activity" : "loadResources",
-      "start" : 25,
-      "length" : 2
+      "start" : 19,
+      "length" : 1
     },
     {
       "activity" : "load",
-      "start" : 25,
-      "length" : 6
+      "start" : 19,
+      "length" : 5
     },
     {
       "activity" : "generateSnapshots",
-      "start" : 25,
-      "length" : 51
-    },
-    {
-      "activity" : "loadInfo",
-      "start" : 26,
-      "length" : 1
-    },
-    {
-      "activity" : "checkR4R4B",
-      "start" : 26,
-      "length" : 1
+      "start" : 20,
+      "length" : 41
     },
     {
       "activity" : "generateNarratives",
-      "start" : 26,
-      "length" : 557
+      "start" : 21,
+      "length" : 28
     },
     {
       "activity" : "validate",
-      "start" : 26,
-      "length" : 1202
-    },
-    {
-      "activity" : "checkConformanceResources",
-      "start" : 30,
-      "length" : 1
+      "start" : 22,
+      "length" : 414
     },
     {
       "activity" : "scanForUsageStats",
-      "start" : 30,
+      "start" : 24,
       "length" : 1
     },
     {
       "activity" : "generate1",
+      "start" : 26,
+      "length" : 235
+    },
+    {
+      "activity" : "generate2",
       "start" : 30,
-      "length" : 186
+      "length" : 321
     },
     {
       "activity" : "generate2",
       "start" : 32,
-      "length" : 814
-    },
-    {
-      "activity" : "generate2",
-      "start" : 33,
-      "length" : 1011
-    },
-    {
-      "activity" : "makeDependencies",
-      "start" : 34,
-      "length" : 1
+      "length" : 257
     },
     {
       "activity" : "generateValidationPack",
-      "start" : 38,
-      "length" : 8
-    },
-    {
-      "activity" : "scanExamplesForR5",
-      "start" : 40,
-      "length" : 1
+      "start" : 37,
+      "length" : 6
     }]
   },
   {
     "name" : "/fsh-generated/includes/fsh-link-references.md",
-    "size" : 107
+    "size" : 173,
+    "processes" : [{
+      "activity" : "generate2",
+      "start" : 30,
+      "length" : 1
+    }]
   },
   {
     "name" : "/fsh-generated/includes/menu.xml",
@@ -190,6 +229,6 @@
   },
   {
     "name" : "/temp/pages/_includes/artifacts.xml",
-    "size" : 2198
+    "size" : 2522
   }]
 }
